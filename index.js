@@ -4,3 +4,4 @@ const drivers = ["Milo", "Otis", "Garfield"];
 function destructivelyAppendDriver (){
   drivers.pop("Ralph");
 }
+console.log (drivers);
